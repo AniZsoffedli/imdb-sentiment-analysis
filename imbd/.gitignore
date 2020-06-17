@@ -1,0 +1,4 @@
+.idea/
+__pycache__/
+movie_predictor_model/
+.ipynb_checkpoints/
